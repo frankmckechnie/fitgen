@@ -1,0 +1,10 @@
+{
+	"nav":[
+		{"name": "home", "title": "Home", "active": false,"hide": false},
+		{"name": "my-workouts", "title": "My Workouts","active": false,"hide": false},
+		{"name": "timer", "title": "Timer","active": false,"hide": false},
+		{"name": "pro", "title": "Pro Version","active": false,"hide": false},
+		{"name": "workout", "title": "Current Workout","active": false,"hide": true},
+		{"name": "build-Workout", "title": "Workout Builder","active": false,"hide": true}
+	]
+}

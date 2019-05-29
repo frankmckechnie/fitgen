@@ -1,0 +1,66 @@
+{
+	"pages" :[
+		{
+			"name" : "home",
+			"notify": {
+				"msg" : "Welcome workouts to go!", 
+				"color" : "msg-blue"
+			},
+			"elements": {
+			}
+		},
+		{
+			"name" : "my-workouts",
+			"notify": {
+				"msg" : "Keep Saving!", 
+				"color" : "msg-blue"
+			},
+			"elements": {
+				"bottomNav": {
+					"icon": "add",
+					"action": "addWorkout"
+				}
+			}
+		},
+		{
+			"name" : "pro",
+			"notify": {
+				"msg" : "Buy the pro Version!", 
+				"color" : "msg-red"
+			},
+			"elements": {
+			}
+		},
+		{
+			"name" : "timer",
+			"notify": {
+				"msg" : "Lost time is never found again!", 
+				"color" : "orange"
+			},
+			"elements": {
+				"bottomNav": {
+					"icon": "add",
+					"action": "addTimer"
+				}
+			}
+		},
+		{
+			"name" : "workout",
+			"elements": {
+				"bottomNav": {
+					"icon": "save",
+					"action": "saveWorkout"
+				}
+			}
+		},
+		{
+			"name" : "build-Workout",
+			"elements": {
+				"bottomNav": {
+					"icon": "save",
+					"action": "addWorkout"
+				}
+			}
+		}		
+	]
+}

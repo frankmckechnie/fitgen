@@ -1,0 +1,41 @@
+07/01/2017
+- fix timer 
+	- completed time issue -done
+	- fixed reset button - done
+- complete the flash message -done
+
+09/01/2017 
+	- fixed the problem with the timer object - done
+	~ thought of idea of cicrle on every page with different options depeneding on the page - near complete 
+
+09/01/2017 
+	~fix the flash message - done
+
+10/01/2017
+	- complete the bottom navigation 
+
+	-fixe the timer by adding classes to get-minute 
+
+10/09/2017 
+	- started working on app again
+
+	_+_ task save workBuilder page 
+
+08/10/2017
+	- add the ordering 
+	- add the abilty to edit - List.SaveWorkout is where I need to change to accept if the workout is ordered
+
+	- render on the workout page a ordered version and gropued 
+	- array element idea 
+	
+	- when there is an array[1,2,3,4] minus 1 [1,2,3] 4 is not 4 as it is 
+
+13/10/2017
+
+	- noticed had to add button
+
+19/05/2019 
+	- started working on the app again, so it begins
+	+ added to git 
+	+ added git hooks
+	+ made sub domain

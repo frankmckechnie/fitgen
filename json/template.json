@@ -1,0 +1,60 @@
+{
+  "pointers": [
+    "list-shoulder",
+    "list-arms",
+    "list-back",
+    "list-legs",
+    "list-chest",
+    "list-cardio"
+  ],
+  "results": {
+    "list-shoulder": {
+      "exc": [],
+      "style": {
+        "class": [
+          "#16a085"
+        ]
+      }
+    },
+    "list-arms": {
+      "exc": [],
+      "style": {
+        "class": [
+          "#f39c12"
+        ]
+      }
+    },
+    "list-back": {
+      "exc": [],
+      "style": {
+        "class": [
+          "#8e44ad"
+        ]
+      }
+    },
+    "list-legs": {
+      "exc": [],
+      "style": {
+        "class": [
+          "#e74c3c"
+        ]
+      }
+    },
+    "list-chest": {
+      "exc": [],
+      "style": {
+        "class": [
+          "#3498db"
+        ]
+      }
+    },
+    "list-cardio": {
+      "exc": [],
+      "style": {
+        "class": [
+          "#f1c40f"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,95 @@
+#side-close{
+    height: 100%;
+    width: 100%;
+    position: fixed; 
+    z-index: 5; 
+    background: rgba(0,0,0,0.25);
+    overflow: hidden;
+    display: none;
+}
+/* The side navigation menu */
+#side-nav {
+    background-color: #252732; 
+    height: 100%; 
+    width: 70%;
+    margin-left: -70%;
+    padding: 35px 0px 0px 0px; 
+    z-index: 4; 
+}
+
+#side-nav .active, #side-nav li:hover, #side-nav li:active{
+  opacity: 1;
+}
+
+#side-nav span{
+  width: 50px;
+  height: 50px;
+  margin: 0px 10px 0px 0px;
+}
+
+#side-nav li{
+    float: left;
+    width: 90%;
+    height: 50px;
+    margin: 10px 0px 0px 0px;
+    padding: 0px 0px 0px 10%;
+    opacity:  0.5;
+    line-height: 50px;
+}
+
+#side-nav a{
+  font-size: 16px;
+  vertical-align: middle;
+  display: inline-block;
+  line-height: normal;
+}
+
+#side-nav .line{
+  border-bottom:  1px solid #929398
+}
+
+/* nested list */
+#list-content {
+  background: #fff;
+  padding:  20px 0px 60px 0px;
+  display: none;
+  width: 100%;
+}
+
+#planB ul {
+  list-style: none;
+  padding: 5px 0px 0px 0px;
+}
+
+#planB li{
+  font-weight: bold;
+  box-sizing: border-box;
+  font-size: 16px;
+  margin: 10px 0px 0px 0px;
+}
+
+#planB li ul li{
+  font-weight: normal;
+  padding-left: 5px;
+  margin: 5px 10px;
+}
+
+#planB li{
+  padding-left: 20px;
+  margin: 10px 0px 20px 0px;
+  text-decoration: none;
+}
+
+#planB li .set-title{
+  font-weight: 600;
+  font-size: 14px;
+  color: #6d6d6d;
+}
+
+#planB li .set-rep{
+  margin: 5px 10px 5px 15px;
+  border-right: 1px solid #eee;
+  font-size: 14px;
+}
+
+

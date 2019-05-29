@@ -1,0 +1,357 @@
+{
+    "list-shoulder": {
+        "compound": [{
+                    "name" : "Dumbbell Shoulder Press",
+                    "sets" : "3",
+                    "reps" : "6",
+                    "time" : "1:30",
+                    "description": "This is awesome"
+                },
+                {
+                    "name" : "Upright Barbell Row",
+                    "sets" : "3",
+                    "reps" : "6",
+                    "time" : "1:30",
+                    "description": "This is awesome"
+                },
+                {
+                    "name": "Seated Barbell Military Press",
+                    "sets" : "3",
+                    "reps" : "6",
+                    "time" : "1:30",
+                    "description": "This is awesome"
+                },
+              {
+                    "name": "Standing Front Barbell Raise Over Head",
+                    "sets" : "3",
+                    "reps" : "6", 
+                    "time" : "1:30",
+                    "description": "While holding a dumbbell in each hand, sit on a military press bench or utility bench that has back support. Place the dumbbells upright on top of your thighs.Now raise the dumbbells to shoulder height one at a time using your thighs to help propel them up into position.Make sure to rotate your wrists so that the palms of your hands are facing forward. This is your starting position.Now, exhale and push the dumbbells upward until they touch at the top.Then, after a brief pause at the top contracted position, slowly lower the weights back down to the starting position while inhaling.Repeat for the recommended amount of repetitions."
+                }
+
+        ],
+        "isolation": [
+                {
+                    "name" : "Side Lateral Raise",
+                    "sets" : "2",
+                    "reps" : "12",
+                    "time" : "1:30",
+                    "description": "This is awesome"
+                },
+                {
+                    "name": "Seated Bent-Over Rear Delt Raise",
+                    "sets" : "2",
+                    "reps" : "12",
+                    "time" : "1:30",
+                    "description": "This is awesome"
+                },
+                {
+                    "name": "Front Cable Raise",
+                    "sets" : "2",
+                    "reps" : "12",
+                    "time" : "1:30",
+                    "description": "This is awesome"
+                },
+                {
+                    "name": "Reverse Machine Flyes",
+                    "sets" : "2",
+                    "reps" : "12",
+                    "time" : "1:30",
+                    "description": "This is awesome"
+                }
+                
+            ],
+        "style": {
+            "class": ["#16a085"] 
+        }
+    },
+    "list-back": {
+        "compound": [{
+                    "name" : "Barbell Deadlift",
+                    "sets" : "3",
+                    "reps" : "6",
+                    "time" : "1:30",
+                    "description": "This is awesome"
+                },
+                {
+                    "name" : "Bent-Over Barbell Deadlift",
+                    "sets" : "3",
+                    "reps" : "6",
+                    "time" : "1:30",
+                    "description": "This is awesome"
+                },
+                {
+                    "name": "Wide-Grip Pull-Up",
+                    "sets" : "3",
+                    "reps" : "6",
+                    "time" : "1:30",
+                    "description": "This is awesome"
+                },
+                {
+                    "name": "Bent-Over Barebell Row",
+                    "sets" : "3",
+                    "reps" : "6",
+                    "time" : "1:30",
+                    "description": "This is awesome"
+                },
+                {
+                    "name": "Back Extensions",
+                    "sets" : "3",
+                    "reps" : "6",
+                    "time" : "1:30",
+                    "description": "This is awesome"
+                }
+
+
+        ],
+        "isolation": [
+                {
+                    "name" : "Standing T-Bar Row",
+                    "sets" : "2",
+                    "reps" : "12",
+                    "time" : "1:30",
+                    "description": "This is awesome"
+                },
+                {
+                    "name": "Close-Grip Pull-Down",
+                    "sets" : "2",
+                    "reps" : "12",
+                    "time" : "1:30",
+                    "description": "This is awesome"
+                },
+                {
+                    "name": "Wide-Grip Seated Cable Row",
+                    "sets" : "2",
+                    "reps" : "12",
+                    "time" : "1:30",
+                    "description": "This is awesome"
+                },
+                {
+                    "name": "Single-Arm Dumbbell Row",
+                    "sets" : "2",
+                    "reps" : "12",
+                    "time" : "1:30",
+                    "description": "This is awesome"
+                }
+
+            ],
+        "style": {
+            "class": ["#8e44ad"]
+        }
+    },
+    "list-legs": {
+        "compound": [{
+                    "name" : "Good Mornings",
+                    "sets" : "3",
+                    "reps" : "6",
+                    "time" : "1:30",
+                    "description": "This is awesome"
+                },
+                {
+                    "name" : "Leg Press",
+                    "sets" : "3",
+                    "reps" : "6",
+                    "time" : "1:30",
+                    "description": "This is awesome"
+                },
+                {
+                    "name": "Squats",
+                    "sets" : "3",
+                    "reps" : "6",
+                    "time" : "1:30",
+                    "description": "This is awesome"
+                },
+                {
+                    "name": "Front Squats",
+                    "sets" : "3",
+                    "reps" : "6",
+                    "time" : "1:30",
+                    "description": "This is awesome"
+                },
+                {
+                    "name": "Dumbbell Stiff Leg Deadlift",
+                    "sets" : "3",
+                    "reps" : "6",
+                    "time" : "1:30",
+                    "description": "This is awesome"
+                }
+            ],
+        "isolation": [
+                {
+                    "name" : "Calf Raise",
+                    "sets" : "2",
+                    "reps" : "12",
+                    "time" : "1:30",
+                    "description": "This is awesome"
+                },
+                {
+                    "name": "Leg Extensions",
+                    "sets" : "2",
+                    "reps" : "12",
+                    "time" : "1:30",
+                    "description": "This is awesome"
+                },
+                {
+                    "name": "Lying Leg Curls",
+                    "sets" : "2",
+                    "reps" : "12",
+                    "time" : "1:30",
+                    "description": "This is awesome"
+                },
+                {
+                    "name": "Dumbbell Hamstring Curls",
+                    "sets" : "2",
+                    "reps" : "12",
+                    "time" : "1:30",
+                    "description": "This is awesome"
+                }
+            ],
+        "style": {
+            "class": ["#e74c3c"]
+        }
+    },
+    "list-chest": {
+        "compound": [{
+                    "name" : "Bench Press",
+                    "sets" : "3",
+                    "reps" : "6",
+                    "time" : "1:30",
+                    "description": "This is awesome"
+                },
+                {
+                    "name" : "Incline Bench Press",
+                    "sets" : "3",
+                    "reps" : "6",
+                    "time" : "1:30",
+                    "description": "This is awesome"
+                },
+                {
+                    "name": "Dumbbell Bench Press",
+                    "sets" : "3",
+                    "reps" : "6",
+                    "time" : "1:30",
+                    "description": "This is awesome"
+                },
+                {
+                    "name": "Chest Dips",
+                    "sets" : "3",
+                    "reps" : "6",
+                    "time" : "1:30",
+                    "description": "This is awesome"
+                },
+                {
+                    "name": "Hammer Strength Bench Press",
+                    "sets" : "3",
+                    "reps" : "6",
+                    "time" : "1:30",
+                    "description": "This is awesome"
+                }
+            ],
+        "isolation": [
+                {
+                    "name" : "Dumbbell Flyes",
+                    "sets" : "2",
+                    "reps" : "12",
+                    "time" : "1:30",
+                    "description": "This is awesome"
+                },
+                {
+                    "name": "Pec Dec",
+                    "sets" : "2",
+                    "reps" : "12",
+                    "time" : "1:30",
+                    "description": "This is awesome"
+                },
+                {
+                    "name": "Cable Crossovers",
+                    "sets" : "2",
+                    "reps" : "12",
+                    "time" : "1:30",
+                    "description": "This is awesome"
+                },
+                {
+                    "name": "Incline Bench Dumbbell Flyes",
+                    "sets" : "2",
+                    "reps" : "12",
+                    "time" : "1:30",
+                    "description": "This is awesome"
+                }
+            ],
+        "style": {
+            "class": ["#3498db"]
+        }
+    },
+    "list-arms": {
+        "compound": [{
+                    "name" : "Barbell Curls",
+                    "sets" : "3",
+                    "reps" : "6",
+                    "time" : "1:30",
+                    "description": "This is awesome"
+                },
+                {
+                    "name" : "Dumbbell Curls – Seated or Standing",
+                    "sets" : "3",
+                    "reps" : "6",
+                    "time" : "1:30",
+                    "description": "This is awesome"
+                },
+                {
+                    "name": "EZ Bar Preacher Curl",
+                    "sets" : "3",
+                    "reps" : "6",
+                    "time" : "1:30",
+                    "description": "This is awesome"
+                },
+                {
+                    "name": "Close-Grip Barbell Bench Press",
+                    "sets" : "3",
+                    "reps" : "6",
+                    "time" : "1:30",
+                    "description": "This is awesome"
+                },
+                {
+                    "name": "EZ-Bar Skullcrusher",
+                    "sets" : "3",
+                    "reps" : "6",
+                    "time" : "1:30",
+                    "description": "This is awesome"
+                }
+            ],
+        "isolation": [
+                {
+                    "name" : "Triceps Pushdown - Rope Attachment",
+                    "sets" : "2",
+                    "reps" : "12",
+                    "time" : "1:30",
+                    "description": "This is awesome"
+                },
+                {
+                    "name": "Triceps Overhead Extension with Rope",
+                    "sets" : "2",
+                    "reps" : "12",
+                    "time" : "1:30",
+                    "description": "This is awesome"
+                },
+                {
+                    "name": "Hammer Curl",
+                    "sets" : "2",
+                    "reps" : "12",
+                    "time" : "1:30",
+                    "description": "This is awesome"
+                },
+                {
+                    "name": "Concentration Curl",
+                    "sets" : "2",
+                    "reps" : "12",
+                    "time" : "1:30",
+                    "description": "This is awesome"
+                }
+            ],
+        "style": {
+            "class": ["#f39c12"]
+        }
+    }
+}
+
+

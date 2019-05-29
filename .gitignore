@@ -1,0 +1,4 @@
+*.zip
+Workouts/personal/*
+Workouts/suggested/*
+sftp-config.json

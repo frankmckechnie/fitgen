@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <!-- structure -->
+    <meta charset="utf-8"/>
+    <title>FitGen</title>
+    <!-- <meta name="viewport" content="width=device-width, minimumscale=1.0, maximum-scale=1.0" /> -->
+    <meta name="viewport" content="width=device-width, user-scalable=no">
+    <!-- css styles -->
+    <link href="css/reset.css" type="text/css" rel="stylesheet">
+    <link href="css/fit.css" type="text/css" rel="stylesheet">
+    <link href="css/sideNav.css" type="text/css" rel="stylesheet">
+
+    <!-- js scripts -->
+    <!-- <script src="cordova.js"></script> -->
+    <script type='text/javascript' src='js/vendor/defiant.js'></script>
+    <script type='text/javascript' src='js/vendor/hammer.min.js'></script>
+    <script type='text/javascript' src='js/vendor/velocity.min.js'></script>
+    <script type='text/javascript' src='js/search.js'></script>
+    <script type='text/javascript' src='js/fit.js'></script>
+    <script type='text/javascript' src='js/game.js'></script>
+    <script type='text/javascript' src='js/create-elements.js'></script>
+    <script type='text/javascript' src='js/workout-file.js'></script>
+
+  </head>
+<body class="noselect">
+
+  <div id="side-close" class="fade-in">
+    <div id="side-nav" class="noselect">
+      <ul>
+      </ul>
+    </div>
+  </div>
+
+  <div id="nameCover" class="white-box noselect" style="display: none; opacity: 0;">
+    <div class="input-box container-shadow">
+       <span id="spanHide" class="hide x-white-icon x-span absolute block small-icon"></span> 
+      <input type="" id="workoutName" placeholder="Name" name="">
+       <select id="workoutType">
+       <option value="" disabled selected>Select an order</option>
+        <option value="ordered">Ordered</option>
+        <option value="grouped">Groped</option>        
+      </select>
+    </div>
+  </div>
+
+  <div id="nav-menu">
+    <span id="nav-open" class="burger-icon medium-icon pull-left"></span>
+    <p>WORKOUTS TO <strong>GO</strong></p>
+    <span id="nav-settings" class="settings-icon sm-icon pull-right"></span>
+  </div>
+
+  <div id="home" class="wrap-nav noselect">
+
+      <div id="content">
+        <ul id="workout-list">
+          <li id="list-shoulder" class="container-shadow">
+            <span class="x-icon small-icon block pull-left"></span>
+            <p>Shoulders</p>
+            <span class="shoulder-icon medium-icon block pull-right"></span>
+          </li>
+          <li id="list-arms" class="container-shadow">
+            <span class="x-icon small-icon block pull-left"></span>
+            <p>Arms</p>
+            <span class="arms-icon medium-icon block pull-right"></span>
+          </li>
+          <li id="list-back" class="container-shadow">
+            <span class="x-icon small-icon block pull-left"></span>
+            <p>Back</p>
+            <span class="back-icon medium-icon block pull-right"></span>
+          </li>
+          <li id="list-legs" class="container-shadow">
+            <span class="x-icon small-icon block pull-left"></span>
+            <p>Legs</p>
+            <span class="legs-icon medium-icon block pull-right"></span>
+          </li>  
+          <li id="list-chest" class="container-shadow">
+            <span class="x-icon small-icon block pull-left"></span>
+            <p>Chest</p>
+            <span class="chest-icon medium-icon block pull-right"></span>
+          </li>  
+        </ul>
+
+        <div id="start" class="button medium-btn red container-shadow">Generate Workout</div>
+      </div>
+  </div>
+
+  <div id="pro" class="wrap-nav noselect">
+    <div class=" card container-shadow">
+      <p>The pro version offers you the chance to see an app without ads. The oppertunity to see what it could be like.</p>
+    </div>
+  </div>
+
+  <div id="timer" class="wrap-nav noselect">
+  </div>
+
+  <div id="bottom-nav">
+    <span id="option" class="nav-span green block medium-icon add-icon "></span>
+  </div>
+ 
+ </body>
+</html>
