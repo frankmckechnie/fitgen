@@ -1225,8 +1225,8 @@ a {
 
 
 .flash-white {
-	//background-color: rgb(88, 207, 139) !important;
-   opacity: 0.7 !important;
+	/* background-color: rgb(88, 207, 139) !important;
+   opacity: 0.7 !important; */
  	
 /*  -webkit-transition: background-color 0.5s ease-out !important;
   -moz-transition: background-color 0.5s ease-out !important;
